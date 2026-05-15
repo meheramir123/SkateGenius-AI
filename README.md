@@ -48,6 +48,11 @@ git clone https://github.com/yourusername/SkateGenius.git
 cd SkateGenius
 ````
 
+## Contributors
+* Meher Amir
+* Bilal Bashir
+* Riyyan Ahmed
+
 ## Future Enhancements
 
 * Real-time live analysis
@@ -56,9 +61,14 @@ cd SkateGenius
 * Personalized training plans
 * AR-assisted movement correction
 
-## License
 
-MIT License
 
-````
+https://github.com/user-attachments/assets/0d772cff-69e1-48ee-b0e3-bde253ef3441
+
+
+
+
+
+
+
 
